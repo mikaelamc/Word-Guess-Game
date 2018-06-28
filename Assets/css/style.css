@@ -1,0 +1,38 @@
+
+
+header{
+    border: 3 px solid black;
+    font-size: 20px;
+    text-align: center;
+    margin: 0 auto;
+    height: 150px;
+    width: 80%;
+
+}
+
+.underscores {
+    border: solid black;
+    font-size: 20px;
+    text-align: center;
+    margin: 0 auto;
+    height: 600px;
+    line-height: 800px;
+    width: 40%;
+
+
+}
+
+.guesses {
+    border: solid black;
+    font-size: 14px;
+    text-align: left;
+    margin: 0 auto;
+    height: 100px;
+    width: 12%;
+    position: absolute;
+    top: 20px;
+
+
+}
+
+
