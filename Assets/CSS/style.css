@@ -1,0 +1,86 @@
+
+#main {
+    /* background: url("../Images/marvelvsdc.jpeg"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+    background:linear-gradient(0deg,rgba(255,0,150,0.3),rgba(255,0,150,0.3)),url("../Images/marvelvsdc.jpeg");
+}
+
+
+
+#container{
+    background: navy;
+    color: #ffffff;
+    border: 3px solid black;
+    font-size: 20px;
+    text-align: center;
+    padding: 50px;
+    
+}
+
+.underscores {
+    border: solid black;
+    font-size: 20px;
+    text-align: center;
+    margin: 0 auto;
+    height: 600px;
+    line-height: 800px;
+    width: 40%; 
+
+
+}
+
+.panel-body {
+    font-size: 23px;
+    border: solid navy;
+    padding: 42px;
+    text-align: center;
+    margin: 12px;
+    margin-bottom: 50px; 
+    width: 586px;
+    margin-top: 47px; 
+    background: navy;
+    color: #ffffff;
+    /* float: left; */
+    /* margin-left: 107px; */
+
+}
+
+.panel-title{
+    color: white;
+    margin-bottom: 84px;
+    font-size: 20px;
+    margin-top: 20px;
+    text-align: center;
+    background: navy;
+    padding: 15px;
+}
+ 
+h1 {
+    font-size: 40px;
+}
+
+#wordToGuessbox {
+    margin: 0 auto;
+}
+
+/* .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+} */
+
+.container{
+    display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: stretch;
+	align-content: stretch;
+    }
+    
+
+
